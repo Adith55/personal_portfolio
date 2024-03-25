@@ -262,6 +262,11 @@ header nav ul li .active {
     .landing .intro h3 span {
       font-size: 2rem;
     }
+  header nav ul {
+      display: flex;
+      align-items: start;
+      justify-content: start;
+    }
   
     .about h1,
     .project h1,
@@ -326,6 +331,11 @@ header nav ul li .active {
   
     .skill-card p {
       font-size: 1rem;
+    }
+    header nav ul {
+      display: flex;
+      align-items: start;
+      justify-content: start;
     }
   
     .skill-card h2 {
